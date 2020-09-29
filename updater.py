@@ -52,13 +52,14 @@ str2 = "\n \
 
 str3 = "\n\
 \n \
+## My Stats\n \
+\n \
+![fcomovaz's github stats](https://github-readme-stats.vercel.app/api?username=fcomovaz&theme=vision-friendly-dark&show_icons=true)\n \
+\n \
 ## My Languages\n \
 \n \
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcomovaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\n \
 \n \
-## My Stats\n \
-\n \
-![fcomovaz's github stats](https://github-readme-stats.vercel.app/api?username=fcomovaz&theme=vision-friendly-dark&show_icons=true)\n \
 \n"
 
 
