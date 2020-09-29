@@ -19,7 +19,7 @@ const fcomovaz = {
     languages:  ['HTML5', 'CSS3', 'Javascript', 'C', 'C++', 'Markdown'],
     hobbies:    ['reading', 'science-videos', 'code-for-fun', 'plants'],
     funFact:    'The horse of Alexander the Great was named Bucephalus',
-    motto:      'If I can't code it, I don't understand it'
+    motto:      'If I can not code it, I do not understand it'
 };
 ```
 
