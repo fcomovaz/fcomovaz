@@ -13,7 +13,7 @@ base_url = "https://animeflv.net/"
 user = 'fcomovaz'
 
 # file to be rewriten
-f = open("sample.txt","w+")
+f = open("README.md","w+")
 
 p1 = "\
 \
