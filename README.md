@@ -80,13 +80,14 @@
  
  
  
-<details><summary>:tv: Watching</summary>
+<details><summary>:heart: Favorites</summary>
 
 * uzakichan wa asobitai
-* tenki no ko
-* dr stone
 * one punch man
-* jojos bizarre adventure
+* evangelion 30 you can not redo
+* evangelion 20 you can not advance
+* evangelion 10 you are not alone
+* neon genesis evangelion
 
 </details>
 
@@ -102,14 +103,13 @@
 
 </details>
 
-<details><summary>:heart: Favorites</summary>
+<details><summary>:tv: Watching</summary>
 
 * uzakichan wa asobitai
+* tenki no ko
+* dr stone
 * one punch man
-* evangelion 30 you can not redo
-* evangelion 20 you can not advance
-* evangelion 10 you are not alone
-* neon genesis evangelion
+* jojos bizarre adventure
 
 </details>
 
