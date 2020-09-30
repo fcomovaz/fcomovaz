@@ -13,10 +13,10 @@ base_url = "https://animeflv.net/"
 user = 'fcomovaz'
 
 # file to be rewriten
-f = open("README.md","w+")
+f = open("sample.txt","w+")
 
-# first strings of the README.md
-str1 = "\
+p1 = "\
+\
 # Hi, I'm Francisco! :eyeglasses::pencil2:\n \
 \n \
 A Mechatronics Engineer monkeying around with code.<img align='left' src='https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif' width='230px'>\n \
@@ -25,11 +25,19 @@ My  alma mater: [University of Guanajuato](https://www.ugto.mx/conoce-la-ug/rese
 \n \
 :two::zero: years old\n \
 \n \
-[![Twitter @fcomovaz](https://img.shields.io/twitter/follow/fcomovaz?style=social)](https://www.twitter.com/fcomovaz/)\n \
-[![Github @fcomovaz](https://img.shields.io/github/followers/fcomovaz?label=follow&style=social)](https://github.com/fcomovaz)\n \
+<!-- [![Twitter @fcomovaz](https://img.shields.io/twitter/follow/fcomovaz?style=social)](https://www.twitter.com/fcomovaz/)\n \
+[![Github @fcomovaz](https://img.shields.io/github/followers/fcomovaz?label=follow&style=social)](https://github.com/fcomovaz) -->\n \
 \n \
 \n \
-<img align='right' src='https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif' width='25%'>\n \
+[<img align=\"left\" alt=\"https://fcomovaz.github.io/\" width=\"22px\" src=\"https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg\" />][website]\n \
+[<img align=\"left\" alt=\"fcomovaz | Twitter\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg\" />][twitter]\n \
+[<img align=\"left\" alt=\"fcomovaz | Instagram\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg\" />][instagram]\n \
+\n \
+<br/>\n \
+\n \
+---\n \
+\n \
+<img align='right' src='https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif' width='20%'>\n \
 \n \
 ```javascript\n \
 const fcomovaz = {\n \
@@ -41,32 +49,90 @@ const fcomovaz = {\n \
     motto:      'If I can not code it, I do not understand it'\n \
 };\n \
 ```\n \
-"
-
-str2 = "\n \
+\n \
 \n \
 ## My Knowledge\n \
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)\n \
-![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white) ![Cpp](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white) ![Shell](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)\n \
-\n"
+\n \
+<img align=\"left\" alt=\"Visual Studio Code\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png\" />\n \
+\n \
+<img align=\"left\" alt=\"HTML5\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png\" />\n \
+<img align=\"left\" alt=\"CSS3\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png\" />\n \
+<img align=\"left\" alt=\"JS\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png\" />\n \
+\n \
+<img align=\"left\" alt=\"terminal\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png\" />\n \
+<img align=\"left\" alt=\"Git\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png\" />\n \
+<img align=\"left\" alt=\"Github\" width=\"26px\" src=\"https://github.githubassets.com/images/icons/emoji/octocat.png\" />\n \
+\n \
+<img align=\"left\" alt=\"C\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png\" />\n \
+<img align=\"left\" alt=\"C++\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png\" />\n \
+<img align=\"left\" alt=\"Python\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png\" />\n \
+\n \
+<img align=\"left\" alt=\"Scilab\" width=\"26px\" src=\"https://avatars1.githubusercontent.com/u/16873035?s=200&v=4\" />\n \
+<img align=\"left\" alt=\"Matlab\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png\" />\n \
+<img align=\"left\" alt=\"Arduino\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png\" />\n \
+\n \
+\n \
+<img align=\"left\" alt=\"LaTeX\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png\" />\n \
+<img align=\"left\" alt=\"Markdown\" width=\"26px\" src=\"https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png\" />\n \
+\n \
+\n \
+\n \
+<br/>\n \
+\n \
+---\n \
+\n \
+## Spotify Playing :headphones:\n \
+\n\
+<div style=\"width:250px;\">\n \
+<details><summary>Look at the Music :musical_note: :musical_note:</summary>\n \
+\n \
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&redirect=true)\n \
+\n \
+</details>\n \
+</div>\n \
+\n\
+\n \
+---\n \
+\n \
+\n \
+## My Anime Preferences\n \
+\n \
+\n \
+\
+"
 
-str3 = "\n\
+p2 = "\
 \n \
-## My Stats\n \
+---\n \
 \n \
-![fcomovaz's github stats](https://github-readme-stats.vercel.app/api?username=fcomovaz&theme=vision-friendly-dark&show_icons=true)\n \
+## Stadistic Details\n \
 \n \
-## My Languages\n \
+<details>\n \
+  <summary>:zap: My Stats</summary>\n \
 \n \
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcomovaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\n \
+  ![fcomovaz's github stats](https://github-readme-stats.vercel.app/api?username=fcomovaz&theme=vision-friendly-dark&show_icons=true)\n \
 \n \
-\n"
-
+</details>\n \
+\n \
+\n \
+<details>\n \
+  <summary>:zap: Top Languages</summary>\n \
+\n \
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcomovaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)\n \
+\n \
+</details>\n \
+\n\n\n\
+[website]: https://fcomovaz.github.io/\n \
+[twitter]: https://twitter.com/fcomovaz\n \
+[instagram]: https://instagram.com/fcomovaz\n \
+\
+"
 
 # classes to scrap
 
 class Watching(scrapy.Spider):
     name = "Watching"
+
 
     def start_requests(self):
         url = base_url+"perfil/"+user+"/siguiendo"
@@ -80,11 +146,14 @@ class Watching(scrapy.Spider):
                              cookies=token,
                              headers={'User-Agent': agent})
     def parse(self,response):
-        f.write("\n### Watching\n")
+        f.write("\n<details><summary>:tv: Watching</summary>\n\n")
+
         for a in response.xpath('.//article[@class="Anime alt"]'):
             anime_url = a.xpath(".//h3[@class='Title']//a/@href").extract_first()\
             .replace('/anime/','').replace('-',' ')
             f.write('* ' +anime_url+'\n')
+
+        f.write("\n</details>\n")
 
 class Favorites(scrapy.Spider):
     name = "Favorites"
@@ -102,11 +171,14 @@ class Favorites(scrapy.Spider):
                              cookies=token,
                              headers={'User-Agent': agent})
     def parse(self,response):
-        f.write("\n### Favorites\n")
+        f.write("\n<details><summary>:heart: Favorites</summary>\n\n")
+
         for a in response.xpath('.//article[@class="Anime alt"]'):
             anime_url = a.xpath(".//h3[@class='Title']//a/@href").extract_first()\
             .replace('/anime/','').replace('-',' ')
             f.write('* ' +anime_url+'\n')
+
+        f.write("\n</details>\n")
 
 class Waiting_List(scrapy.Spider):
     name = "Waiting_List"
@@ -124,23 +196,17 @@ class Waiting_List(scrapy.Spider):
                              cookies=token,
                              headers={'User-Agent': agent})
     def parse(self,response):
-        f.write("\n### My Waiting List\n")
+        f.write("\n<details><summary>:alarm_clock: My Waiting List</summary>\n\n")
+
         for a in response.xpath('.//article[@class="Anime alt"]'):
             anime_url = a.xpath(".//h3[@class='Title']//a/@href").extract_first()\
             .replace('/anime/','').replace('-',' ')
             f.write('* ' +anime_url+'\n')
 
-# join 1st string
-f.write(str1)
+        f.write("\n</details>\n")
 
-# join 2nd string
-f.write(str2)
-
-# join 3rd string
-f.write(str3)
-
-# title of the section
-f.write("\n## My Anime Preferences\n")
+# join part1
+f.write(p1)
 
 # join anime info
 proc = CrawlerProcess()
@@ -148,6 +214,9 @@ proc.crawl(Watching)
 proc.crawl(Favorites)
 proc.crawl(Waiting_List)
 proc.start()
+
+# join part2
+f.write(p2)
 
 # stop code
 quit()
