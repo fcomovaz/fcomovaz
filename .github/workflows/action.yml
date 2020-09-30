@@ -1,7 +1,7 @@
 name: Update Github README
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 5 * * *'
 
 jobs:
   build:
@@ -34,5 +34,5 @@ jobs:
           git config --global user.email "fj.morenovazquez@ugto.mx"
           git config --global user.name "fcomovaz"
           git add -A
-          git commit --amend || exit 0
+          git commit -m "Github README: Ready!!" || exit 0
           git push
