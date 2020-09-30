@@ -80,17 +80,6 @@
  
  
  
-<details><summary>:heart: Favorites</summary>
-
-* uzakichan wa asobitai
-* one punch man
-* evangelion 30 you can not redo
-* evangelion 20 you can not advance
-* evangelion 10 you are not alone
-* neon genesis evangelion
-
-</details>
-
 <details><summary>:tv: Watching</summary>
 
 * uzakichan wa asobitai
@@ -110,6 +99,17 @@
 * one punch man road to hero
 * hunter x hunter
 * kamikaze kaitou jeanne
+
+</details>
+
+<details><summary>:heart: Favorites</summary>
+
+* uzakichan wa asobitai
+* one punch man
+* evangelion 30 you can not redo
+* evangelion 20 you can not advance
+* evangelion 10 you are not alone
+* neon genesis evangelion
 
 </details>
 
