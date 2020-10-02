@@ -30,13 +30,16 @@ My  alma mater: [University of Guanajuato](https://www.ugto.mx/conoce-la-ug/rese
 \n\
 \n\
 [<img align=\"left\" alt=\"https://fcomovaz.github.io/\" width=\"22px\" src=\"https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg\" />][website]\n\
-[<img align=\"left\" alt=\"fcomovaz | Twitter\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg\" />][twitter]\n\
-[<img align=\"left\" alt=\"fcomovaz | Instagram\" width=\"22px\" src=\"https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg\" />][instagram]\n\
+[<img align=\"left\" alt=\"fcomovaz | Twitter\" width=\"22px\" src=\"https://www.flaticon.es/svg/static/icons/svg/733/733635.svg\" />][twitter]\n\
+[<img align=\"left\" alt=\"fcomovaz | Instagram\" width=\"22px\" src=\"https://www.flaticon.es/svg/static/icons/svg/733/733614.svg\" />][instagram]\n\
+[<img align=\"left\" alt=\"fcomovaz | Telegram\" width=\"22px\" src=\"https://www.flaticon.es/svg/static/icons/svg/1051/1051317.svg\" />][telegram]\n\
+[<img align=\"left\" alt=\"fcomovaz | Spotify\" width=\"22px\" src=\"https://www.flaticon.es/svg/static/icons/svg/733/733629.svg\" />][spotify]\n\
+[<img align=\"left\" alt=\"fcomovaz | Reddit\" width=\"22px\" src=\"https://www.flaticon.es/svg/static/icons/svg/733/733624.svg\" />][reddit]\n\
+[<img align=\"left\" alt=\"fcomovaz | Twitch\" width=\"22px\" src=\"https://www.flaticon.es/svg/static/icons/svg/733/733633.svg\" />][twitch]\n\
 \n\
 <br/>\n\
 \n\
 ---\n\
-<br/>\n\
 \n\
 <img align='right' src='https://media.giphy.com/media/mf4qECoTz8ZVK/giphy.gif' width='20%'>\n\
 \n\
@@ -79,7 +82,6 @@ const fcomovaz = {\n\
 <br/>\n\
 \n\
 ---\n\
-<br/>\n\
 \n\
 ## Spotify Playing :headphones:\n\
 \n\
@@ -93,7 +95,6 @@ const fcomovaz = {\n\
 \n\
 \n\
 ---\n\
-<br/>\n\
 \n\
 \n\
 ## My Anime Preferences\n\
@@ -105,7 +106,6 @@ const fcomovaz = {\n\
 p2 = "\
 \n\
 ---\n\
-<br/>\n\
 \n\
 ## Statistical Details\n\
 \n\
@@ -127,6 +127,13 @@ p2 = "\
 [website]: https://fcomovaz.github.io/\n\
 [twitter]: https://twitter.com/fcomovaz\n\
 [instagram]: https://instagram.com/fcomovaz\n\
+[telegram]: https://t.me/fcomovaz\n\
+[spotify]: https://open.spotify.com/user/21buo33eiklc76ohjsvfv4i7a\n\
+[reddit]: https://www.reddit.com/user/fcomovaz\n\
+[twitch]: https://www.twitch.tv/fcomovaz\n\
+[youtube]: https://www.flaticon.es/svg/static/icons/svg/733/733646.svg\n\
+[linkedin]: https://www.flaticon.es/svg/static/icons/svg/733/733617.svg\n\
+[blogger]: https://www.flaticon.es/svg/static/icons/svg/733/733595.svg\n\
 \
 "
 
