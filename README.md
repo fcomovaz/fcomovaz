@@ -82,40 +82,6 @@ const fcomovaz = {
 
 
 
-<details><summary>:heart: Favorites</summary><br/>
-
-* uzakichan wa asobitai
-* nande koko ni sensei ga
-* one punch man
-* evangelion 30 you can not redo
-* evangelion 20 you can not advance
-* evangelion 10 you are not alone
-* neon genesis evangelion
-
-</details>
-
-<details><summary>:alarm_clock: My Waiting List</summary><br/>
-
-* gibiate
-* kanojo okarishimasu
-* one punch man 2nd season
-* one punch man specials
-* one punch man road to hero
-* hunter x hunter
-* kamikaze kaitou jeanne
-
-</details>
-
-<details><summary>:tv: Watching</summary><br/>
-
-* uzakichan wa asobitai
-* tenki no ko
-* dr stone
-* one punch man
-* jojos bizarre adventure
-
-</details>
-
 ---
 
 ## Statistical Details
