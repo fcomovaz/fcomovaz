@@ -82,18 +82,6 @@ const fcomovaz = {
 
 
 
-<details><summary>:alarm_clock: My Waiting List</summary><br/>
-
-* gibiate
-* kanojo okarishimasu
-* one punch man 2nd season
-* one punch man specials
-* one punch man road to hero
-* hunter x hunter
-* kamikaze kaitou jeanne
-
-</details>
-
 <details><summary>:heart: Favorites</summary><br/>
 
 * uzakichan wa asobitai
@@ -103,6 +91,18 @@ const fcomovaz = {
 * evangelion 20 you can not advance
 * evangelion 10 you are not alone
 * neon genesis evangelion
+
+</details>
+
+<details><summary>:alarm_clock: My Waiting List</summary><br/>
+
+* gibiate
+* kanojo okarishimasu
+* one punch man 2nd season
+* one punch man specials
+* one punch man road to hero
+* hunter x hunter
+* kamikaze kaitou jeanne
 
 </details>
 
