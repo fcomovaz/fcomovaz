@@ -82,16 +82,6 @@ const fcomovaz = {
 
 
 
-<details><summary>:tv: Watching</summary><br/>
-
-* uzakichan wa asobitai
-* tenki no ko
-* dr stone
-* one punch man
-* jojos bizarre adventure
-
-</details>
-
 <details><summary>:heart: Favorites</summary><br/>
 
 * uzakichan wa asobitai
@@ -113,6 +103,16 @@ const fcomovaz = {
 * one punch man road to hero
 * hunter x hunter
 * kamikaze kaitou jeanne
+
+</details>
+
+<details><summary>:tv: Watching</summary><br/>
+
+* uzakichan wa asobitai
+* tenki no ko
+* dr stone
+* one punch man
+* jojos bizarre adventure
 
 </details>
 
