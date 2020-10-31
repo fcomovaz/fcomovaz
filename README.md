@@ -82,15 +82,13 @@ const fcomovaz = {
 
 
 
-<details><summary>:heart: Favorites</summary><br/>
+<details><summary>:tv: Watching</summary><br/>
 
 * uzakichan wa asobitai
-* nande koko ni sensei ga
+* tenki no ko
+* dr stone
 * one punch man
-* evangelion 30 you can not redo
-* evangelion 20 you can not advance
-* evangelion 10 you are not alone
-* neon genesis evangelion
+* jojos bizarre adventure
 
 </details>
 
@@ -106,13 +104,15 @@ const fcomovaz = {
 
 </details>
 
-<details><summary>:tv: Watching</summary><br/>
+<details><summary>:heart: Favorites</summary><br/>
 
 * uzakichan wa asobitai
-* tenki no ko
-* dr stone
+* nande koko ni sensei ga
 * one punch man
-* jojos bizarre adventure
+* evangelion 30 you can not redo
+* evangelion 20 you can not advance
+* evangelion 10 you are not alone
+* neon genesis evangelion
 
 </details>
 
