@@ -1,2 +1,4 @@
 scrapy
 cfscrape
+requests
+beautifulsoup4

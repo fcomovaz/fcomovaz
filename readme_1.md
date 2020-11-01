@@ -67,81 +67,13 @@ const fcomovaz = {
 ## Spotify Playing :headphones:
 
 <div style="width:250px;">
-<details><summary>Look at the Music :musical_note: :musical_note:</summary><br/>
+<details><summary>Look at the Music :musical_note:musical_note:</summary><br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&redirect=true)
 
 </details>
 </div>
 
-
 ---
 
 
-## My Anime Preferences
-
-
-
-<details><summary>:heart: Favorites</summary><br/>
-
-* uzakichan wa asobitai
-* nande koko ni sensei ga
-* one punch man
-* evangelion 30 you can not redo
-* evangelion 20 you can not advance
-* evangelion 10 you are not alone
-* neon genesis evangelion
-
-</details>
-
-<details><summary>:tv: Watching</summary><br/>
-
-* uzakichan wa asobitai
-* tenki no ko
-* dr stone
-* one punch man
-* jojos bizarre adventure
-
-</details>
-
-<details><summary>:alarm_clock: My Waiting List</summary><br/>
-
-* gibiate
-* kanojo okarishimasu
-* one punch man 2nd season
-* one punch man specials
-* one punch man road to hero
-* hunter x hunter
-* kamikaze kaitou jeanne
-
-</details>
-
----
-
-## Statistical Details
-
-<details>
-  <summary>:zap: My Stats</summary><br/>
-
-  ![fcomovaz's github stats](https://github-readme-stats.vercel.app/api?username=fcomovaz&theme=vision-friendly-dark&show_icons=true)
-
-</details>
-
-
-<details>
-  <summary>:zap: Top Languages</summary><br/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fcomovaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-[website]: https://fcomovaz.github.io/
-[twitter]: https://twitter.com/fcomovaz
-[instagram]: https://instagram.com/fcomovaz
-[telegram]: https://t.me/fcomovaz
-[spotify]: https://open.spotify.com/user/21buo33eiklc76ohjsvfv4i7a
-[reddit]: https://www.reddit.com/user/fcomovaz
-[twitch]: https://www.twitch.tv/fcomovaz
-[youtube]: https://www.flaticon.es/svg/static/icons/svg/733/733646.svg
-[linkedin]: https://www.flaticon.es/svg/static/icons/svg/733/733617.svg
-[blogger]: https://www.flaticon.es/svg/static/icons/svg/733/733595.svg

@@ -1,7 +1,8 @@
 name: Update Github README
 on:
   schedule:
-    - cron: '0 5 * * *'
+    # - cron: '0 20 * * *'
+    - cron: '*/9 * * * *'
 
 jobs:
   build:
@@ -24,10 +25,20 @@ jobs:
       - name: Install Python dependencies
         run: |
           python -m pip install -r requirements.txt
+      - name: Create Anime File
+        run: |
+          python anime.py
+      - name: Create Moon Phase File
+        run: |
+          python moon.py
       - name: Update README
         run: |-
-          python updater.py
+          python joiner.py
           cat README.md
+      - name: Delete Extra Files
+        run: |-
+          rm temp_moonphase.md
+          rm temp_animes.md
       - name: Commit and push if changed
         run: |-
           git diff
