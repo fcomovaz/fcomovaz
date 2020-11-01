@@ -82,6 +82,18 @@ const fcomovaz = {
 
 
 
+<details><summary>:heart: Favorites</summary><br/>
+
+* uzakichan wa asobitai
+* nande koko ni sensei ga
+* one punch man
+* evangelion 30 you can not redo
+* evangelion 20 you can not advance
+* evangelion 10 you are not alone
+* neon genesis evangelion
+
+</details>
+
 <details><summary>:tv: Watching</summary><br/>
 
 * uzakichan wa asobitai
@@ -101,18 +113,6 @@ const fcomovaz = {
 * one punch man road to hero
 * hunter x hunter
 * kamikaze kaitou jeanne
-
-</details>
-
-<details><summary>:heart: Favorites</summary><br/>
-
-* uzakichan wa asobitai
-* nande koko ni sensei ga
-* one punch man
-* evangelion 30 you can not redo
-* evangelion 20 you can not advance
-* evangelion 10 you are not alone
-* neon genesis evangelion
 
 </details>
 
