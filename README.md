@@ -67,52 +67,46 @@ const fcomovaz = {
 ## Spotify Playing :headphones:
 
 <div style="width:250px;">
-<details><summary>Look at the Music :musical_note: :musical_note:</summary><br/>
+<details><summary>Look at the Music :musical_note:musical_note:</summary><br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&redirect=true)
 
 </details>
 </div>
 
-
 ---
+
 
 
 ## My Anime Preferences
 
-
-
 <details><summary>:heart: Favorites</summary><br/>
 
-* uzakichan wa asobitai
-* nande koko ni sensei ga
-* one punch man
-* evangelion 30 you can not redo
-* evangelion 20 you can not advance
-* evangelion 10 you are not alone
-* neon genesis evangelion
+* [uzakichan wa asobitai](https://animeflv.net/anime/uzakichan-wa-asobitai)
+* [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
+* [one punch man](https://animeflv.net/anime/one-punch-man)
+* [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
+* [evangelion 20 you can not advance](https://animeflv.net/anime/evangelion-20-you-can-not-advance)
 
 </details>
 
 <details><summary>:tv: Watching</summary><br/>
 
-* uzakichan wa asobitai
-* tenki no ko
-* dr stone
-* one punch man
-* jojos bizarre adventure
+* [uzakichan wa asobitai](https://animeflv.net/anime/uzakichan-wa-asobitai)
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [dr stone](https://animeflv.net/anime/dr-stone)
+* [one punch man](https://animeflv.net/anime/one-punch-man)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
 <details><summary>:alarm_clock: My Waiting List</summary><br/>
 
-* gibiate
-* kanojo okarishimasu
-* one punch man 2nd season
-* one punch man specials
-* one punch man road to hero
-* hunter x hunter
-* kamikaze kaitou jeanne
+* [gibiate](https://animeflv.net/anime/gibiate)
+* [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
+* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
+* [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
+* [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
 
 </details>
 
@@ -145,3 +139,7 @@ const fcomovaz = {
 [youtube]: https://www.flaticon.es/svg/static/icons/svg/733/733646.svg
 [linkedin]: https://www.flaticon.es/svg/static/icons/svg/733/733617.svg
 [blogger]: https://www.flaticon.es/svg/static/icons/svg/733/733595.svg
+<details><summary>Moon Phase :full_moon_with_face::new_moon_with_face:</summary><br/>
+Today it's Waning Gibbous :waning_gibbous_moon:
+</details>
+
