@@ -80,33 +80,32 @@ const fcomovaz = {
 
 ## My Anime Preferences
 
-<details><summary>:tv: Watching</summary><br/>
+<details><summary>:alarm_clock: My Waiting List</summary><br/>
 
-* [uzakichan wa asobitai](https://animeflv.net/anime/uzakichan-wa-asobitai)
-* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
-* [dr stone](https://animeflv.net/anime/dr-stone)
-* [one punch man](https://animeflv.net/anime/one-punch-man)
-* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
+* [gibiate](https://animeflv.net/anime/gibiate)
+* [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
+* [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
+* [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
+* [hunter x hunter](https://animeflv.net/anime/hunter-x-hunter)
 
 </details>
 
 <details><summary>:heart: Favorites</summary><br/>
 
-* [uzakichan wa asobitai](https://animeflv.net/anime/uzakichan-wa-asobitai)
 * [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
 * [one punch man](https://animeflv.net/anime/one-punch-man)
 * [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
 * [evangelion 20 you can not advance](https://animeflv.net/anime/evangelion-20-you-can-not-advance)
+* [evangelion 10 you are not alone](https://animeflv.net/anime/evangelion-10-you-are-not-alone)
 
 </details>
 
-<details><summary>:alarm_clock: My Waiting List</summary><br/>
+<details><summary>:tv: Watching</summary><br/>
 
-* [gibiate](https://animeflv.net/anime/gibiate)
-* [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [dr stone](https://animeflv.net/anime/dr-stone)
 * [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
-* [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
-* [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
@@ -140,6 +139,6 @@ const fcomovaz = {
 [linkedin]: https://www.flaticon.es/svg/static/icons/svg/733/733617.svg
 [blogger]: https://www.flaticon.es/svg/static/icons/svg/733/733595.svg
 <details><summary>Moon Phase :full_moon_with_face::new_moon_with_face:</summary><br/>
-Today it's Waning Gibbous :waning_gibbous_moon:
+Today it's Last Quarter :last_quarter_moon:
 </details>
 
