@@ -90,15 +90,6 @@ const fcomovaz = {
 
 </details>
 
-<details><summary>:tv: Watching</summary><br/>
-
-* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
-* [dr stone](https://animeflv.net/anime/dr-stone)
-* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
-* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
-
-</details>
-
 <details><summary>:heart: Favorites</summary><br/>
 
 * [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
@@ -106,6 +97,15 @@ const fcomovaz = {
 * [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
 * [evangelion 20 you can not advance](https://animeflv.net/anime/evangelion-20-you-can-not-advance)
 * [evangelion 10 you are not alone](https://animeflv.net/anime/evangelion-10-you-are-not-alone)
+
+</details>
+
+<details><summary>:tv: Watching</summary><br/>
+
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [dr stone](https://animeflv.net/anime/dr-stone)
+* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
