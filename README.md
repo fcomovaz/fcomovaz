@@ -80,16 +80,6 @@ const fcomovaz = {
 
 ## My Anime Preferences
 
-<details><summary>:alarm_clock: My Waiting List</summary><br/>
-
-* [gibiate](https://animeflv.net/anime/gibiate)
-* [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
-* [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
-* [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
-* [hunter x hunter](https://animeflv.net/anime/hunter-x-hunter)
-
-</details>
-
 <details><summary>:heart: Favorites</summary><br/>
 
 * [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
@@ -106,6 +96,16 @@ const fcomovaz = {
 * [dr stone](https://animeflv.net/anime/dr-stone)
 * [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
 * [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
+
+</details>
+
+<details><summary>:alarm_clock: My Waiting List</summary><br/>
+
+* [gibiate](https://animeflv.net/anime/gibiate)
+* [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
+* [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
+* [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
+* [hunter x hunter](https://animeflv.net/anime/hunter-x-hunter)
 
 </details>
 
@@ -139,6 +139,6 @@ const fcomovaz = {
 [linkedin]: https://www.flaticon.es/svg/static/icons/svg/733/733617.svg
 [blogger]: https://www.flaticon.es/svg/static/icons/svg/733/733595.svg
 <details><summary>Moon Phase :full_moon_with_face::new_moon_with_face:</summary><br/>
-Today it's Last Quarter :last_quarter_moon:
+Today it's Waning Crescent :waning_crescent_moon:
 </details>
 
