@@ -89,16 +89,6 @@ const fcomovaz = {
 
 </details>
 
-<details><summary>:heart: Favorites</summary><br/>
-
-* [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
-* [one punch man](https://animeflv.net/anime/one-punch-man)
-* [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
-* [evangelion 20 you can not advance](https://animeflv.net/anime/evangelion-20-you-can-not-advance)
-* [evangelion 10 you are not alone](https://animeflv.net/anime/evangelion-10-you-are-not-alone)
-
-</details>
-
 <details><summary>:alarm_clock: My Waiting List</summary><br/>
 
 * [gibiate](https://animeflv.net/anime/gibiate)
@@ -106,6 +96,16 @@ const fcomovaz = {
 * [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
 * [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
 * [hunter x hunter](https://animeflv.net/anime/hunter-x-hunter)
+
+</details>
+
+<details><summary>:heart: Favorites</summary><br/>
+
+* [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
+* [one punch man](https://animeflv.net/anime/one-punch-man)
+* [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
+* [evangelion 20 you can not advance](https://animeflv.net/anime/evangelion-20-you-can-not-advance)
+* [evangelion 10 you are not alone](https://animeflv.net/anime/evangelion-10-you-are-not-alone)
 
 </details>
 
