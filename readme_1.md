@@ -67,7 +67,7 @@ const fcomovaz = {
 ## Spotify Playing :headphones:
 
 <div style="width:250px;">
-<details><summary>Look at the Music :musical_note:musical_note:</summary><br/>
+<details><summary>Look at the Music :musical_note::musical_note:</summary><br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&redirect=true)
 
