@@ -67,7 +67,7 @@ const fcomovaz = {
 ## Spotify Playing :headphones:
 
 <div style="width:250px;">
-<details><summary>Look at the Music :musical_note:musical_note:</summary><br/>
+<details><summary>Look at the Music :musical_note::musical_note:</summary><br/>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&redirect=true)
 
@@ -82,11 +82,11 @@ const fcomovaz = {
 
 <details><summary>:heart: Favorites</summary><br/>
 
+* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
 * [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
 * [one punch man](https://animeflv.net/anime/one-punch-man)
 * [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
 * [evangelion 20 you can not advance](https://animeflv.net/anime/evangelion-20-you-can-not-advance)
-* [evangelion 10 you are not alone](https://animeflv.net/anime/evangelion-10-you-are-not-alone)
 
 </details>
 
@@ -94,7 +94,7 @@ const fcomovaz = {
 
 * [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
 * [dr stone](https://animeflv.net/anime/dr-stone)
-* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
+* [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
 * [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
