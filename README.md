@@ -80,25 +80,6 @@ const fcomovaz = {
 
 ## My Anime Preferences
 
-<details><summary>:heart: Favorites</summary><br/>
-
-* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
-* [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
-* [one punch man](https://animeflv.net/anime/one-punch-man)
-* [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
-* [evangelion 20 you can not advance](https://animeflv.net/anime/evangelion-20-you-can-not-advance)
-
-</details>
-
-<details><summary>:tv: Watching</summary><br/>
-
-* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
-* [dr stone](https://animeflv.net/anime/dr-stone)
-* [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
-* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
-
-</details>
-
 <details><summary>:alarm_clock: My Waiting List</summary><br/>
 
 * [gibiate](https://animeflv.net/anime/gibiate)
@@ -106,6 +87,24 @@ const fcomovaz = {
 * [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
 * [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
 * [hunter x hunter](https://animeflv.net/anime/hunter-x-hunter)
+
+</details>
+
+<details><summary>:tv: Watching</summary><br/>
+
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [dr stone](https://animeflv.net/anime/dr-stone)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
+
+</details>
+
+<details><summary>:heart: Favorites</summary><br/>
+
+* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
+* [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
+* [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
+* [one punch man](https://animeflv.net/anime/one-punch-man)
+* [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
 
 </details>
 
