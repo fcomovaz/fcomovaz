@@ -80,11 +80,13 @@ const fcomovaz = {
 
 ## My Anime Preferences
 
-<details><summary>:tv: Watching</summary><br/>
+<details><summary>:heart: Favorites</summary><br/>
 
-* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
-* [dr stone](https://animeflv.net/anime/dr-stone)
-* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
+* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
+* [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
+* [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
+* [one punch man](https://animeflv.net/anime/one-punch-man)
+* [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
 
 </details>
 
@@ -98,13 +100,11 @@ const fcomovaz = {
 
 </details>
 
-<details><summary>:heart: Favorites</summary><br/>
+<details><summary>:tv: Watching</summary><br/>
 
-* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
-* [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
-* [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
-* [one punch man](https://animeflv.net/anime/one-punch-man)
-* [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [dr stone](https://animeflv.net/anime/dr-stone)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
@@ -138,6 +138,6 @@ const fcomovaz = {
 [linkedin]: https://www.flaticon.es/svg/static/icons/svg/733/733617.svg
 [blogger]: https://www.flaticon.es/svg/static/icons/svg/733/733595.svg
 <details><summary>Moon Phase :full_moon_with_face::new_moon_with_face:</summary><br/>
-Today it's New Moon :new_moon:
+Today it's Waxing Crescent :waxing_crescent_moon:
 </details>
 
