@@ -90,6 +90,14 @@ const fcomovaz = {
 
 </details>
 
+<details><summary>:tv: Watching</summary><br/>
+
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [dr stone](https://animeflv.net/anime/dr-stone)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
+
+</details>
+
 <details><summary>:heart: Favorites</summary><br/>
 
 * [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
@@ -97,14 +105,6 @@ const fcomovaz = {
 * [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
 * [one punch man](https://animeflv.net/anime/one-punch-man)
 * [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
-
-</details>
-
-<details><summary>:tv: Watching</summary><br/>
-
-* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
-* [dr stone](https://animeflv.net/anime/dr-stone)
-* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
@@ -138,6 +138,6 @@ const fcomovaz = {
 [linkedin]: https://www.flaticon.es/svg/static/icons/svg/733/733617.svg
 [blogger]: https://www.flaticon.es/svg/static/icons/svg/733/733595.svg
 <details><summary>Moon Phase :full_moon_with_face::new_moon_with_face:</summary><br/>
-Today it's First Quarter :first_quarter_moon:
+Today it's Waxing Gibbous :waxing_gibbous_moon:
 </details>
 
