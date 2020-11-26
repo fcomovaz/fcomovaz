@@ -84,17 +84,9 @@ const fcomovaz = {
 
 * [gibiate](https://animeflv.net/anime/gibiate)
 * [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
+* [nekopara tv](https://animeflv.net/anime/nekopara-tv)
 * [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
 * [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
-* [hunter x hunter](https://animeflv.net/anime/hunter-x-hunter)
-
-</details>
-
-<details><summary>:tv: Watching</summary><br/>
-
-* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
-* [dr stone](https://animeflv.net/anime/dr-stone)
-* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
@@ -105,6 +97,14 @@ const fcomovaz = {
 * [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
 * [one punch man](https://animeflv.net/anime/one-punch-man)
 * [evangelion 30 you can not redo](https://animeflv.net/anime/evangelion-30-you-can-not-redo)
+
+</details>
+
+<details><summary>:tv: Watching</summary><br/>
+
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [dr stone](https://animeflv.net/anime/dr-stone)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
