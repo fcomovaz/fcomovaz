@@ -80,13 +80,11 @@ const fcomovaz = {
 
 ## My Anime Preferences
 
-<details><summary>:alarm_clock: My Waiting List</summary><br/>
+<details><summary>:tv: Watching</summary><br/>
 
-* [gibiate](https://animeflv.net/anime/gibiate)
-* [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
-* [nekopara tv](https://animeflv.net/anime/nekopara-tv)
-* [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
-* [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [dr stone](https://animeflv.net/anime/dr-stone)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
@@ -100,11 +98,13 @@ const fcomovaz = {
 
 </details>
 
-<details><summary>:tv: Watching</summary><br/>
+<details><summary>:alarm_clock: My Waiting List</summary><br/>
 
-* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
-* [dr stone](https://animeflv.net/anime/dr-stone)
-* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
+* [gibiate](https://animeflv.net/anime/gibiate)
+* [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
+* [nekopara tv](https://animeflv.net/anime/nekopara-tv)
+* [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
+* [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
 
 </details>
 
