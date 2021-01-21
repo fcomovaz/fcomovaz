@@ -80,11 +80,13 @@ const fcomovaz = {
 
 ## My Anime Preferences
 
-<details><summary>:tv: Watching</summary><br/>
+<details><summary>:heart: Favorites</summary><br/>
 
-* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [rezero kara hajimeru isekai seikatsu shin henshuuban](https://animeflv.net/anime/rezero-kara-hajimeru-isekai-seikatsu-shin-henshuuban)
 * [dr stone](https://animeflv.net/anime/dr-stone)
-* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
+* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
+* [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
+* [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
 
 </details>
 
@@ -98,13 +100,11 @@ const fcomovaz = {
 
 </details>
 
-<details><summary>:heart: Favorites</summary><br/>
+<details><summary>:tv: Watching</summary><br/>
 
-* [rezero kara hajimeru isekai seikatsu shin henshuuban](https://animeflv.net/anime/rezero-kara-hajimeru-isekai-seikatsu-shin-henshuuban)
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
 * [dr stone](https://animeflv.net/anime/dr-stone)
-* [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
-* [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
-* [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
