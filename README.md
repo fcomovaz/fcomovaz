@@ -80,6 +80,15 @@ const fcomovaz = {
 
 ## My Anime Preferences
 
+<details><summary>:tv: Watching</summary><br/>
+
+* [mushoku tensei isekai ittara honki dasu](https://animeflv.net/anime/mushoku-tensei-isekai-ittara-honki-dasu)
+* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
+* [dr stone](https://animeflv.net/anime/dr-stone)
+* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
+
+</details>
+
 <details><summary>:alarm_clock: My Waiting List</summary><br/>
 
 * [gibiate](https://animeflv.net/anime/gibiate)
@@ -87,14 +96,6 @@ const fcomovaz = {
 * [nekopara tv](https://animeflv.net/anime/nekopara-tv)
 * [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
 * [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
-
-</details>
-
-<details><summary>:tv: Watching</summary><br/>
-
-* [tenki no ko](https://animeflv.net/anime/tenki-no-ko)
-* [dr stone](https://animeflv.net/anime/dr-stone)
-* [jojos bizarre adventure](https://animeflv.net/anime/jojos-bizarre-adventure)
 
 </details>
 
