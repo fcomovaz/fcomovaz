@@ -80,16 +80,6 @@ const fcomovaz = {
 
 ## My Anime Preferences
 
-<details><summary>:alarm_clock: My Waiting List</summary><br/>
-
-* [gibiate](https://animeflv.net/anime/gibiate)
-* [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
-* [nekopara tv](https://animeflv.net/anime/nekopara-tv)
-* [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
-* [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
-
-</details>
-
 <details><summary>:tv: Watching</summary><br/>
 
 * [mushoku tensei isekai ittara honki dasu](https://animeflv.net/anime/mushoku-tensei-isekai-ittara-honki-dasu)
@@ -106,6 +96,16 @@ const fcomovaz = {
 * [one punch man 2nd season](https://animeflv.net/anime/one-punch-man-2nd-season)
 * [nande koko ni sensei ga](https://animeflv.net/anime/nande-koko-ni-sensei-ga)
 * [kono subarashii sekai ni shukufuku wo](https://animeflv.net/anime/kono-subarashii-sekai-ni-shukufuku-wo)
+
+</details>
+
+<details><summary>:alarm_clock: My Waiting List</summary><br/>
+
+* [gibiate](https://animeflv.net/anime/gibiate)
+* [kanojo okarishimasu](https://animeflv.net/anime/kanojo-okarishimasu)
+* [nekopara tv](https://animeflv.net/anime/nekopara-tv)
+* [one punch man specials](https://animeflv.net/anime/one-punch-man-specials)
+* [one punch man road to hero](https://animeflv.net/anime/one-punch-man-road-to-hero)
 
 </details>
 
