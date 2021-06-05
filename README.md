@@ -110,6 +110,6 @@ const fcomovaz = {
 [linkedin]: https://www.flaticon.es/svg/static/icons/svg/733/733617.svg
 [blogger]: https://www.flaticon.es/svg/static/icons/svg/733/733595.svg
 <details><summary>Moon Phase :full_moon_with_face::new_moon_with_face:</summary><br/>
-Today it's Last Quarter :last_quarter_moon:
+Today it's Waning Crescent :waning_crescent_moon:
 </details>
 
