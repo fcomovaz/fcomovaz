@@ -4,8 +4,6 @@
 
 ## Spotify Playing :headphones:
 
-Look at my Music:musical_note::musical_note:
-
 <div style="width:250px;">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&cover_image=false)](https://open.spotify.com/user/21buo33eiklc76ohjsvfv4i7a)
@@ -18,8 +16,13 @@ Look at this pretty calendar styled by [No es Más Que Basura Marina](https://ww
 
 ![monthly calendar](this_month.png)
 
-Thanks 4 watching visitor number:
+> Thanks 4 watching visitor number:
+
+<div>
+  
 ![counter loli xd](https://count.getloli.com/get/@fcomovaz?theme=moebooru)
+  
+</div>
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=84&section=footer)
 
