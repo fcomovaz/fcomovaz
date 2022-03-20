@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=disp("Hi%20👓")&fontSize=90&animation=fadeIn&fontAlignY=28&desc=I'm%20Francisco,%20a%20mechatronics%20engineer%20playing%20with%20code.&descAlignY=55&descAlign=60)
 
 ## Spotify Playing :headphones:
@@ -20,3 +22,5 @@ Thanks 4 watching visitor number:
 ![counter loli xd](https://count.getloli.com/get/@fcomovaz?theme=moebooru)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=84&section=footer)
+
+</div>
