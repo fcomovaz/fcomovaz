@@ -62,7 +62,7 @@ for i in range(day-1):
 
 # resizing for README.md adjust
 w, h = c_month.width, c_month.height
-c_month = c_month.resize((w//5,h//5))
+c_month = c_month.resize((w//4,h//4))
 
 # saving to print
 c_month.save("this_month.png")
