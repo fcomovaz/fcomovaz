@@ -54,7 +54,7 @@ cross   = cross.resize((162, 162))
 c_month = Image.open("calendar/"+str(month)+ext)
 
 # get the first weekday of the month
-first   = newWeekday(datetime(2022,month,1).weekday())
+first   = newWeekday(datetime(2023,month,1).weekday())
 
 # overlay crosses in coordinate positions
 for i in range(day-1):
