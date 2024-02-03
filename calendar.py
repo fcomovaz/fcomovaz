@@ -32,8 +32,7 @@ def create_points():
     return meshgrid
 
 def newWeekday(weekday):
-    # weekdays = [1 , 2, 3, 4, 5, 6, 0]
-    weekdays = [2, 3, 4, 5, 6, 0, 1]
+    weekdays = [1 , 2, 3, 4, 5, 6, 0]
     return weekdays[weekday]
 
 # extension of the imgs
@@ -55,7 +54,7 @@ cross   = cross.resize((162, 162))
 c_month = Image.open("calendar/"+str(month)+ext)
 
 # get the first weekday of the month
-first   = newWeekday(datetime(2023,month,1).weekday())
+first   = newWeekday(datetime(2024,month,1).weekday())
 
 # overlay crosses in coordinate positions
 for i in range(day-1):
