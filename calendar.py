@@ -32,7 +32,8 @@ def create_points():
     return meshgrid
 
 def newWeekday(weekday):
-    weekdays = [1 , 2, 3, 4, 5, 6, 0]
+    # weekdays = [1 , 2, 3, 4, 5, 6, 0]
+    weekdays = [0, 1 , 2, 3, 4, 5, 6]
     return weekdays[weekday]
 
 # extension of the imgs
