@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=disp("Hi%20👓")&fontSize=90&animation=fadeIn&fontAlignY=28&desc=I'm%20Francisco,%20a%20mechatronics%20engineer%20playing%20with%20code.&descAlignY=55&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=disp("Hi%20👓")&fontSize=50&animation=fadeIn&fontAlignY=28&desc=I'm%20Francisco,%20a%20Mechatronics%20Engineer%20coding%20for%20fun.&descAlignY=55&descAlign=60)
 
 ## Spotify Playing :headphones:
 
@@ -16,7 +16,7 @@ Look at this pretty calendar styled by [No es Más Que Basura Marina](https://ww
 
 ![monthly calendar](this_month.png)
 
-> Thanks 4 watching visitor number:
+## Thanks 4 watching visitor number:
 
 <div>
   
