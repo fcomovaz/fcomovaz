@@ -6,7 +6,7 @@
 
 <div style="width:250px;">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21buo33eiklc76ohjsvfv4i7a&cover_image=false)](https://open.spotify.com/user/21buo33eiklc76ohjsvfv4i7a)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21buo33eiklc76ohjsvfv4i7a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21buo33eiklc76ohjsvfv4i7a&redirect=true)
 
 </div>
 
