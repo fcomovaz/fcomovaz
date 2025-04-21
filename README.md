@@ -10,11 +10,12 @@
 
 </div>
 
-## Spongebob Calendar
 
-Look at this pretty calendar styled by [No es Más Que Basura Marina](https://www.facebook.com/BasuraMarina/):
+<!--## Spongebob Calendar-->
 
-![monthly calendar](this_month.png)
+<!--Look at this pretty calendar styled by [No es Más Que Basura Marina](https://www.facebook.com/BasuraMarina/):-->
+
+<!--![monthly calendar](this_month.png)-->
 
 ## Thanks 4 watching visitor number:
 
