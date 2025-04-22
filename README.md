@@ -2,7 +2,7 @@
 🔭 I’m currently working as SRE @ TCS <br>
 👯 I’m looking to collaborate on research projects that requiere computer/ML/AI approaches 🤓🖥️<br>
 🤝 I’m looking for opportunities to participate in Open Source projects 🙇🙏<br>
-💬 Ask me about whatever, I'll gladly answer you<br>
+<!--💬 Ask me about whatever, I'll gladly answer you<br>-->
 
 
 ## 🌐 Socials:
@@ -28,11 +28,12 @@
 <!--### 🔝 Top Contributed Repo-->
 <!--![](https://github-contributor-stats.vercel.app/api?username=fcomovaz&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
-## Look at this pretty game from [https://profile-readme-generator.com/](https://profile-readme-generator.com/)
-<img src="https://raw.githubusercontent.com/fcomovaz/fcomovaz/refs/heads/output/snake.svg" alt="Snake animation" />
+## 🐍 Game from [Tobias Meyhöfer](https://github.com/tobiasmeyhoefer)
+![Snake animation](https://raw.githubusercontent.com/fcomovaz/fcomovaz/refs/heads/output/snake.svg)
 
-
+<!-- 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
