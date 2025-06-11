@@ -1,7 +1,15 @@
-# Hello World! 💫I'm Fran, a Mechatronics Engineer 💻
-🔭 I’m currently working as SRE @ TCS <br>
-👯 I’m looking to collaborate on research projects that requiere computer/ML/AI approaches 🤓🖥️<br>
-🤝 I’m looking for opportunities to participate in Open Source projects 🙇🙏<br>
+<h1 align="center">Hi, I'm Fran! 👋</h1>
+<h3 align="center">🚀 Mechatronics Engineer | 💻 SRE @ TCS | 🤖 Open Source & AI Enthusiast</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fcomovaz&style=flat-square&color=brightgreen" alt="profile views"/>
+</p>
+
+
+## 👋 About Me
+
+🛠️ Mechatronics Engineer passionate about tech, automation, and creative problem-solving.
+🤝 Eager to collaborate on research and open source projects, especially those involving AI/ML and computer science.
+🌎 Always exploring new technologies and ways to make a positive impact.
 <!--💬 Ask me about whatever, I'll gladly answer you<br>-->
 
 
